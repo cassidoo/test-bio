@@ -1,3 +1,3 @@
-## Link in Bio Template
+## Link in Bio Example
 
-This is a template repo for a link in bio generator that I'm making, stay tuned 👀
+Based on [this template](https://github.com/cassidoo/link-in-bio-template), using [this generator](https://linkinbiogen.netlify.app/), we made [this site](https://test-lib-generated-stream-314.netlify.app/)!
